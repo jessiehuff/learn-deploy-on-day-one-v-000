@@ -486,7 +486,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,11 +5016,18 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
 
+#jessie-huff-cover {
+    background-image: url("http://i.imgur.com/qdLaOkU.jpg?1");
+  }
+
+#jessie-huff-card {
+    background-image: url("http://i.imgur.com/koUGkwx.jpg?1");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
